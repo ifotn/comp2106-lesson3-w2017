@@ -57,7 +57,7 @@ let api = function(req, res, next) {
   let person = JSON.stringify({
       "name": "Ralph",
       "age": 35,
-      "nationality": "Canadian"
+      "nationality": "Indian"
   });
 
     // set response type as json rather than text or html
